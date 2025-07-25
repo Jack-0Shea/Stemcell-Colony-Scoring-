@@ -1,1 +1,3 @@
 This page is for the storage of all methods used for cell counting, morphology assessment, etc...
+
+Each file is to be named after its main function(s) along with its source.
